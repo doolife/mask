@@ -1,6 +1,7 @@
 <template>
   <div class="store">
-    store aaaaaaaaa bbbb
+    공적마스크 판매 중단으로 인하여 7월 8일 부로 API 지원이 종료 되었습니다.<br/>
+    <a href="https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000001728" target="_blank">관련 내용 링크</a>
   </div>
 </template>
 
